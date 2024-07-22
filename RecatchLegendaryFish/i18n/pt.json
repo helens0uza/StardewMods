@@ -1,0 +1,14 @@
+{
+    /*********
+    ** In-game messages
+    *********/
+    "message.enabled": "Agora você pode recapturar peixes lendários. Pressione {{key}} novamente para desativá-lo.",
+    "message.disabled": "Você não pode mais recapturar peixes lendários. Pressione {{key}} novamente para habilitá-lo.",
+
+
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+    "config.controls": "Controles",
+    "config.toggle-key.name": "Tecla de atalho",
+    "config.toggle-key.desc": "Um atalho de teclado que alterna se você pode recapturar peixes lendários."
